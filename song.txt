@@ -16,5 +16,11 @@ Branching even further
 
 Branching numero uno
 Branching numero duo
+<<<<<<< Updated upstream
 Even further
 
+=======
+
+
+feature stash
+>>>>>>> Stashed changes
